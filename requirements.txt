@@ -1,0 +1,7 @@
+requests
+selenium
+zmail
+pyyaml
+openpyxl
+xlwt
+xlrd

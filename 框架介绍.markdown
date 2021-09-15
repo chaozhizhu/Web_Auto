@@ -1,0 +1,12 @@
+## 框架介绍
+   设计人员：一凡  
+   开发语言：Python  
+   web自动化框架：selenium  /appium/automator2
+   测试框架：Unittest/Pytest
+   数据管理：Yaml  
+   设计模式：POM  
+   邮件发送：Zmail  
+   日志：Logging         
+     
+     
+   
